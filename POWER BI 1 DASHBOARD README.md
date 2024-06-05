@@ -5,7 +5,7 @@ Total Sales: The total sales amount is 2.30 million.
 Total Profit: The total profit generated is 286,000.
 Total Quantity: The total quantity of products sold is 38,000.
 Total Customers: The total number of customers is 793.
-Total Orders: The total number of orders placed is 5,000.
+Total Orders: The total number of orders placed is 5,000
 The dashboard also provides information on sales segmented by different categories:
 
 Furniture: Sales in the furniture category amount to 53,000.
